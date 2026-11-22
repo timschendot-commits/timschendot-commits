@@ -1,11 +1,11 @@
 
-# Hi, I'm Tims Chen 👋
+# Hi👋
 
 ### Business Analytics | Data & Business Intelligence | Open Source
 
-I'm a Master's student in Business Analytics at **Universiti Sains Malaysia (USM)**, with an undergraduate background in Law.
+a Master's student in Business Analytics at **Universiti Sains Malaysia (USM)**, with an undergraduate background in Law.
 
-I'm interested in turning complex business problems into practical, data-driven solutions.
+interested in turning complex business problems into practical, data-driven solutions.
 
 My focus is on building reliable analytics workflows, intuitive data products, and useful open-source tools.
 
