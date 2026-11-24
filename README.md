@@ -58,8 +58,4 @@ Bachelor of Laws (LL.B.) | 2020–2025
 
 ---
 
-### My Philosophy
-
-> Good analytics doesn't stop at explaining what happened. It helps people understand what matters and make better decisions.
-
-**Let's build something useful.**
+**Let's build something.**
